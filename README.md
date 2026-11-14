@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Secure Connect and Communication Platform
 **Backend Lab 4 | Web Dev III | Unit 4**
 
@@ -176,3 +177,6 @@ secure-connect-platform/
 
 ## 8. Lab conclusion
 The Secure Connect and Communication Platform demonstrates authentication and authorization using bcrypt and JWT, protected REST APIs, user-specific CRUD operations, role-based access control, real-time communication through Socket.IO, and event-driven programming using EventEmitter. MongoDB stores users and notes persistently.
+=======
+# Secure_Connect_Backend_Lab4
+>>>>>>> bebfbfe2882d5bc638d88de5f8a03e6d898de043
